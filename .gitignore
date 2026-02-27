@@ -1,0 +1,25 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
+.DS_Store
+*.log
+coverage.xml
+.coverage
+htmlcov/
+node_modules/
+esdata/
+
+# Claude Code session data
+.claude/
+
+# Windows artifacts
+nul
+*.tmp
